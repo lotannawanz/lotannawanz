@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Lotanna Nwanze, I'm getting a Bsc in Computer Science. When I'm not learning or writing code, I'm playing a lot of video games
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on fun projects related to data engineering and data science 
-- 📫 How to reach me ldavenwanze@gmail.com, twitter.com/lotannawanz
+- 👋🏾 hi! I’m Lotanna Nwanze.
+- 👨🏾‍💻 a Bsc in Computer Science. when i'm not learning or writing code, i'm playing a lot of video games. 
+- 👀 i’m interested in DevOps & Cloud engineering. 
+- 🌱 i’m currently learning AWS. 
+- 🔗 i’m looking to collaborate on exciting projects related to DevOps & Cloud. 
+- 📫 how to reach me; ldavenwanze@gmail.com, twitter.com/lotannawanz
 
 <!---
 lotannawanz/lotannawanz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
