@@ -1,16 +1,22 @@
-## Hi there 👋
+Hey, I'm Lotanna 👋🏾
 
-<!--
-**lotannawanz/lotannawanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend systems, developer tooling, and platform components — with a focus on reliability, automation, and high-quality developer experience.
 
-Here are some ideas to get you started:
+Current focus:
+🚀 Platform Project v1
+Designing a production-grade backend service that evolves into a prototype Internal Developer Platform.
+This includes containerized services, automated workflows, migrations, health endpoints, and platform-oriented architecture patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Areas I’m exploring and engineering around:
+
+  Platform Engineering & internal platforms
+
+  Cloud infrastructure and automation
+
+  Observability & service reliability
+
+  CI/CD workflows
+
+  Developer experience (DX) design
+  
+  Infrastructure as Product
