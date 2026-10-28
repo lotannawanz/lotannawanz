@@ -49,6 +49,6 @@ I build full-stack applications, payment-driven workflows, and scalable backend 
 
 ### 🤝🏾 Let's Connect
 
-- 🐦 **X / Twitter:** @lotannawanz(https://x.com/lotannawanz)
+- 🐦 **X / Twitter:** @lotannawanz (https://x.com/lotannawanz)
 - 📫 **Email:** ldavenwanze@gmail.com
 - ♟️ *Always down for a rapid game on Chess.com or talking F1, football, and music tech.*
