@@ -1,6 +1,6 @@
 # Hey, I'm Lotanna (Wanz) 👋🏾
 
-**Software Engineer & Product Builder** based in Lagos, Nigeria. 
+** Product Builder & Software Engineer** based in Lagos, Nigeria. 
 
 I build full-stack applications, payment-driven workflows, and scalable backend systems. My background sits at the intersection of **Computer Science**, **Product Operations**, and **Cloud/ML Infrastructure**—focused on shipping lean, high-utility products that solve real operational bottlenecks.
 
@@ -10,7 +10,6 @@ I build full-stack applications, payment-driven workflows, and scalable backend 
 
 - **Building [Tanna](#):** Designing and scaling a B2B social-commerce SaaS engine that bridges payment gateway webhooks (Paystack) with automated WhatsApp merchant and customer order pipelines.
 - **Product & Operations:** Leading product strategy, POS throughput optimization, and operational systems in hospitality and creative/music spaces across Lagos (**Sleek's Matcha**, **Loopd Studio**).
-- **Cloud & AI Infrastructure:** Deepening my focus on **AWS architecture**, **DevOps/MLOps**, and applying machine learning to complex data pipelines and music publishing/royalty infrastructure.
 - **Research Roots:** B.Sc. (Hons) in Computer Science from the University of Lagos (Distinction in final-year research analyzing Decision Tree algorithms and SMOTE oversampling for class-imbalanced datasets).
 
 ---
