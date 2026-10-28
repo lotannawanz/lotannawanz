@@ -1,6 +1,6 @@
 # Hey, I'm Lotanna (Wanz) 👋🏾
 
-** Product Builder & Software Engineer** based in Lagos, Nigeria. 
+**Product Builder & Software Engineer** based in Lagos, Nigeria. 
 
 I build full-stack applications, payment-driven workflows, and scalable backend systems. My background sits at the intersection of **Computer Science**, **Product Operations**, and **Cloud/ML Infrastructure**—focused on shipping lean, high-utility products that solve real operational bottlenecks.
 
